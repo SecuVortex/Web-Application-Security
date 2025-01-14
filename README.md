@@ -12,13 +12,13 @@ SAST checks the app’s code for problems without running it. It’s useful for 
 **Benefits of SAST:**
 - Finds problems early.
 - Works well with development tools.
-- Doesn’t need the app to be running.
+- no need the app to be running.
 
 ### Dynamic Application Security Testing (DAST)
 DAST tests a live application to find problems in its running state. It detects issues like authentication weaknesses and server misconfigurations.
 
 **Benefits of DAST:**
-- Finds issues missed by code analysis.
+- Finding issues missed by code analysis.
 - Tests real-world app behavior.
 - Spots deployment and configuration errors.
 
