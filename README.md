@@ -30,7 +30,7 @@ IAST combines SAST and DAST. It checks the app’s behavior while also analyzing
 DevSecOps adds security to the DevOps process, automating checks and involving security teams throughout development.
 
 **Key Features:**
-- **Early Security (Shift Left):** Start security checks early in development.
+- **Early Security :** Begin security assessments at an early stage of development.
 - **Automation:** Use tools for automated security testing.
 - **Continuous Monitoring:** Watch for threats constantly.
 - **Team Collaboration:** Ensure all teams work together on security.
