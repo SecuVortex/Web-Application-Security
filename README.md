@@ -70,3 +70,14 @@ Securing web applications requires best practices, tools, and ongoing efforts. H
 5. **Use a Web Application Firewall (WAF):** A WAF adds protection by filtering harmful traffic to your app.
 6. **Monitor Continuously:** Use tools that alert you to problems immediately so you can fix them quickly.
 7. **Stay Updated on Threats:** Keep track of new attack methods and vulnerabilities to stay protected.
+
+# some portswigger labs
+![image](https://github.com/user-attachments/assets/bcfa34b9-44c4-4209-9553-482cf44a5217)
+
+![image](https://github.com/user-attachments/assets/e11b222e-c9c4-469a-a49a-8d520022400f)
+
+![image](https://github.com/user-attachments/assets/8ec662a7-e37c-4068-b451-d85d6fa86968)
+
+
+
+
